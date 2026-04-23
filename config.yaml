@@ -14,4 +14,4 @@ auth-dir: "~/.cli-proxy-api"
 
 api-keys: []
 
-debug: true
+debug: false
