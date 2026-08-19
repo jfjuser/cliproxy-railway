@@ -1,4 +1,4 @@
-FROM eceasy/cli-proxy-api
+FROM ghcr.io/caidaoli/cliproxyapi:latest
 
 COPY config.yaml /CLIProxyAPI/config.yaml
 
